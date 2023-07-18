@@ -1,0 +1,70 @@
+.class1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 10vh; 
+  font-size: 50;
+  color: rgb(186, 24, 121);
+  border: 20px solid rgb(213, 85, 16);
+  padding: 10px;
+  background-color: rgb(17, 208, 196);
+  font-family: "Lucida Console", "Courier New", monospace;
+  }
+  .anh1 {
+    display: block;
+    margin: 0 auto;
+    height: 60vh;
+    margin-left: 0;
+    border-radius: 50%;
+  }
+  .class2 {
+    display: flex;
+    height: 60vh;
+  }
+  .sp {
+    flex: 1;
+    padding: 10px;
+  }
+  .facebook {
+    display: block;
+    margin: 0 auto;
+    height: 30vh;
+    margin-left: 40;
+  }
+  .youtube {
+    display: block;
+    margin: 0 ;
+    height: 30vh;
+    margin-left: 40;
+  }
+  .zalo {
+    display: block;
+    margin: 0 ;
+    height: 20vh;
+    margin-right: 10;
+    margin-top: 30;
+  }
+  .tiktok {
+    display: block;
+    margin: 0 ;
+    height: 30vh;
+    margin-right: 10;
+  }
+  .sp {
+    padding: 20px;
+    margin-bottom: 200px;
+  }
+  .a1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 50;
+    border: 10px solid rgb(223, 109, 32);
+    padding-right: 10px;
+    background-color: rgb(26, 157, 213);
+    font-family: "Lucida Console", "Courier New", monospace;
+    color: rgb(219, 14, 28);
+  }
+  body {
+    background-color: #17ca62;
+  }
